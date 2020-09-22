@@ -8,6 +8,4 @@ For more information, see this post: [http://nvie.com/posts/better-package-manag
 
 This code is a proof of concept.
 
-# See also
-
-See https://github.com/jazzband/pip-tools/ for another `pip-sync`.
+The final implementation was merged into https://github.com/jazzband/pip-tools/.
